@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asparadise33
 - 👀 I’m interested in Continuing to grow as a developer
 - 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on anythin!
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me abby.paradise@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've seen Bruce Springsteen in concert five times, he just keeps getting better.
