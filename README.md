@@ -2,7 +2,7 @@
 - 👀 I’m interested in continuing to grow as a developer
 - 🌱 I’m currently learning Python and Django, and completed a Fullstack Development Bootcamp at Nashville Software School.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me abby.paradise@gmail.com/ (https://www.linkedin.com/in/abigail-paradise915?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bqc%2B93pyOQTKqbn7zqhcw1A%3D%3D)
+- 📫 How to reach me abby.paradise@gmail.com/ [linkedIn](https://www.linkedin.com/in/abigail-paradise915?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bqc%2B93pyOQTKqbn7zqhcw1A%3D%3D)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've seen Bruce Springsteen in concert five times, he just keeps getting better.
 
